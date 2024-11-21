@@ -89,6 +89,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 32 | [Subjects](https://eyen.fr/subjects/) | Advanced student planner app to keep track of timetables, homework and grades. | 70% OFF the Yearly Plan | Nov 21 - Dec 2 |
 | 33 | [Lingon X](https://www.peterborgapps.com/lingon/) | An easy to use but powerful macOS app to run things automatically | 20% off (automatically applied) | Nov 20 - Dec 3 |
 | 34 | [Prostir - Daily Planner](https://apps.apple.com/us/app/daily-planner-prostir/id6535696029) | Prostir is an stress-free planner that prioritizes your well-being, encouraging balance over endless tasks. It’s a safe space for your plans and thoughts — with no extra pressure. | 7 days free + 40% off Annual Subscription | Nov 20 - Dec 20 |
+| 35 | [Monthly Expenses Tracker](https://apps.apple.com/us/app/monthly-expenses-tracker-app/id1590852070) | Track and manage your expenses and budgets with 100% Privacy. The only app you need for complete financial control. | 80% OFF the Lifetime Plan | Nov 26 - Dec 02 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
